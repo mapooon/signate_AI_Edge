@@ -6,3 +6,4 @@
 *.jpeg
 *.txt
 !memo.txt
+!ranking.png
